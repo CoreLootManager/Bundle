@@ -1,0 +1,12 @@
+location: modules
+sources:
+  - repo: https://github.com/ClassicLootManager/ClassicLootManager
+    name: ClassicLootManager
+    rev: v0.9.1
+    type: git
+    sparse_paths:
+      -
+    links:
+      -
+    scripts:
+      -
